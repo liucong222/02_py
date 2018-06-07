@@ -1,3 +1,5 @@
+import pytest
+
 class Testshiyan():
     def test_lala(self):
         print('123')
