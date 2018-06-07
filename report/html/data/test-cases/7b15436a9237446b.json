@@ -1,0 +1,60 @@
+{
+  "uid" : "7b15436a9237446b",
+  "name" : "Testshiyan.test_lala3",
+  "fullName" : "test_shiyan.Testshiyan.test_lala3",
+  "historyId" : "c0e767a5c3a60a390fde4ba365b56402",
+  "time" : {
+    "start" : 1528277094526,
+    "stop" : 1528277094527,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-LOV9N5N"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "29656-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_shiyan"
+  }, {
+    "name" : "testClass",
+    "value" : "test_shiyan"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testshiyan.test_lala3"
+  }, {
+    "name" : "package",
+    "value" : "test_shiyan"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b15436a9237446b.json",
+  "parameterValues" : [ ]
+}

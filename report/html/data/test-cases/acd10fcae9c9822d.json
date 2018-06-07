@@ -1,0 +1,66 @@
+{
+  "uid" : "acd10fcae9c9822d",
+  "name" : "Testshiyan.test_lala1",
+  "fullName" : "test_shiyan.Testshiyan.test_lala1",
+  "historyId" : "23f9089554bd986ad36c86ad09090011",
+  "time" : {
+    "start" : 1528277094499,
+    "stop" : 1528277094524,
+    "duration" : 25
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <test_shiyan.Testshiyan object at 0x000001A0157736A0>\n\n    def test_lala1(self):\n        print('123')\n>       assert 0\nE       assert 0\n\nscripts\\test_shiyan.py:8: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-LOV9N5N"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "29656-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_shiyan"
+  }, {
+    "name" : "testClass",
+    "value" : "test_shiyan"
+  }, {
+    "name" : "testMethod",
+    "value" : "Testshiyan.test_lala1"
+  }, {
+    "name" : "package",
+    "value" : "test_shiyan"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "acd10fcae9c9822d.json",
+  "parameterValues" : [ ]
+}

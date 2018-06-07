@@ -1,0 +1,65 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1528277094494" stop="1528277094527">
+  <name>test_shiyan</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1528277094494" status="passed" stop="1528277094497">
+      <name>Testshiyan.test_lala</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="29656-MainThread"/>
+        <label name="host" value="DESKTOP-LOV9N5N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1528277094499" status="failed" stop="1528277094524">
+      <name>Testshiyan.test_lala1</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;test_shiyan.Testshiyan object at 0x000001A0157736A0&gt;
+
+    def test_lala1(self):
+        print('123')
+&gt;       assert 0
+E       assert 0
+
+scripts\test_shiyan.py:8: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="29656-MainThread"/>
+        <label name="host" value="DESKTOP-LOV9N5N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1528277094525" status="passed" stop="1528277094526">
+      <name>Testshiyan.test_lala2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="29656-MainThread"/>
+        <label name="host" value="DESKTOP-LOV9N5N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1528277094526" status="passed" stop="1528277094527">
+      <name>Testshiyan.test_lala3</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="29656-MainThread"/>
+        <label name="host" value="DESKTOP-LOV9N5N"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
